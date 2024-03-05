@@ -1,0 +1,4 @@
+Hello C02224G1
+git init: khởi tạo local repository
+git add <tên file>: đẩy file demo.txt vào stagging area
+git commit -m <message "hello"> : đưa thay đổi vào local repository, tạo 1 snap shot lưu trữ online lịch sử thay đổi
